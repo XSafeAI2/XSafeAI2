@@ -29,14 +29,8 @@ I am currently a co-founder and software developer at seoem.co. I'm working on I
 
 ## Stack
 ### :snake: Python
-+ __RestAPI:__ RestAPI, Mail, ... [Case Study - PokeAPI](https://github.com/oemerfaruk/PokeAPI---Study-Case)
-+ __Data Science:__ Pandas, Numpy [GIRO Analysis](https://github.com/oemerfaruk/GIRO_Analysis)
-+ __Data Visulation:__ Matplotlib, Seaborn [GIRO Analysis](https://github.com/oemerfaruk/GIRO_Analysis)
-+ __Test Automation:__ Selenium [Ionolab Data Download](https://github.com/oemerfaruk/ionolab-data-download)
 ### 📡 C++
-+ __Teaching:__ IOT, Robotics, Electronic Programming [Deneyap](https://github.com/oemerfaruk/deneyap)
 ### :desktop_computer: Front-End
-+ __Teaching:__ HTML,CSS,TAILWINDCSS,JAVASCRIPT,REACT,REACT NATIVE [YTU Front-End Course](https://github.com/oemerfaruk/YTU-Front-End)
 
 <!--
 **XSafeAI2/XSafeAI2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
